@@ -1,2 +1,2 @@
 # academic
- Academic Module Odoo
+ Academic Module Odoo v.10
