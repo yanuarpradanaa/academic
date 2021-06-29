@@ -1,0 +1,2 @@
+# academic
+ Academic Module Odoo
